@@ -15,7 +15,7 @@ public class Chocolates implements Gift
     }
 
     public void display_details() {
-        System.out.println("Sweet Name: "+name);
+        System.out.println("chocolate Name: "+name);
         System.out.println("Total Weight of Sweet: "+weight*no_of_chocolates);
     }
 
