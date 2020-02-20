@@ -49,7 +49,7 @@ class Multiplication extends Calculator
     }
     public void display()
     {
-        System.out.println("Multiplication of two numers is: "+result);
+        System.out.println("Multiplication of two numbers is: "+result);
     }
 }
 
@@ -63,7 +63,7 @@ class Division extends Calculator
     }
     public void display()
     {
-        System.out.println("Division of two numers is: "+result);
+        System.out.println("Division of two numbers is: "+result);
     }
 }
 
@@ -77,7 +77,7 @@ class Power extends Calculator
     }
     public void display()
     {
-        System.out.println("Power of two numers is: "+result);
+        System.out.println("Power of two numbers is: "+result);
     }
 }
 
